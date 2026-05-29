@@ -1,3 +1,14 @@
-theme: jekyll-theme-minimal
-title: Farzam
-description: Portfolio
+theme: minima
+
+title: Farzam Arefi
+description: Machine Learning & AI Engineer
+url: "https://gitFarzam.github.io"
+
+author:
+  name: Farzam Arefi
+  email: ""
+
+plugins:
+  - jekyll-feed
+
+markdown: kramdown
