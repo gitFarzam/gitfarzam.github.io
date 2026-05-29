@@ -1,5 +1,3 @@
-# Farzam Arefi
-
 <img src="profile.jpg" alt="Farzam Arefi" width="160" style="border-radius: 50%; margin-bottom: 1rem;" />
 
 **Machine Learning & AI Engineer**
