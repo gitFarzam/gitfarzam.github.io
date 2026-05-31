@@ -9,7 +9,7 @@
 
 ## About
 
-I'm an ML/AI engineer passionate about building intelligent systems — from handwritten digit recognition with PyTorch to LLM-powered applications and data analysis pipelines. I enjoy working at the intersection of research and engineering, turning ideas into reproducible, well-documented code.
+I'm an ML/AI engineer passionate about building intelligent systems, from handwritten digit recognition with PyTorch to LLM-powered applications and data analysis pipelines. I enjoy working at the intersection of research and engineering, turning ideas into reproducible, well-documented code.
 
 ---
 
