@@ -46,5 +46,5 @@ A collection of Jupyter notebooks for analyzing and visualizing datasets.
 
 ## Get in Touch
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/farzamarefi/)
-- 🐙 [GitHub](https://github.com/gitFarzam)
+- ◼︎ [LinkedIn](https://www.linkedin.com/in/farzamarefi/)
+- ◼︎ [GitHub](https://github.com/gitFarzam)
