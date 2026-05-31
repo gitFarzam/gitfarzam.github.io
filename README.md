@@ -41,10 +41,3 @@ A collection of Jupyter notebooks for analyzing and visualizing datasets.
 | **Data Science** | Jupyter, pandas, data visualization, EDA |
 | **Languages** | Python, SQL |
 | **Version Control** | Git, GitHub |
-
----
-
-## Get in Touch
-
- ◼︎ [LinkedIn](https://www.linkedin.com/in/farzamarefi/)
- ◼︎ [GitHub](https://github.com/gitFarzam)
