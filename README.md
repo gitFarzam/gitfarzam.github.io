@@ -39,5 +39,6 @@ A collection of Jupyter notebooks for analyzing and visualizing datasets.
 | **Machine Learning** | PyTorch, scikit-learn, neural networks, image segmentation |
 | **LLMs & AI** | LangChain, prompt engineering, LLM design |
 | **Data Science** | Jupyter, pandas, data visualization, EDA |
-| **Languages** | Python, SQL |
+| **Languages** | Python, SQL, Shell |
+| **Software Development** | Django, FastAPI, Docker, Celery, Grafana, HTMX |
 | **Version Control** | Git, GitHub |
