@@ -15,16 +15,19 @@ I'm an ML/AI engineer passionate about building intelligent systems, from handwr
 
 ## Projects
 
-### 🔢 [DigitRecognition](https://github.com/gitFarzam/DigitRecognition)
+### ◼️ [TelRag.site](https://telrag.site)
+RAG application, using telegram as a tool for adding new documents.
+
+### ◼️ [DigitRecognition](https://github.com/gitFarzam/DigitRecognition)
 Recognition of handwritten digits using **PyTorch** combined with simple image segmentation techniques.
 
-### 🤖 [LLM Projects](https://github.com/gitFarzam/llm)
+### ◼️ [LLM Projects](https://github.com/gitFarzam/llm)
 Experiments and projects related to large language model design and fine-tuning.
 
-### 🔗 [LangChain Notebooks](https://github.com/gitFarzam/langchain)
+### ◼️ [LangChain Notebooks](https://github.com/gitFarzam/langchain)
 Hands-on explorations of the LangChain framework for building LLM-powered applications.
 
-### 📊 [Data Analysis Notebooks](https://github.com/gitFarzam/notebooks)
+### ◼️ [Data Analysis Notebooks](https://github.com/gitFarzam/notebooks)
 A collection of Jupyter notebooks for analyzing and visualizing datasets.
 
 ---
