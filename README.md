@@ -15,7 +15,7 @@ I'm an ML/AI engineer passionate about building intelligent systems, from handwr
 
 ## Projects
 
-### ◼️ [TelRag.site](https://telrag.site)
+### ◼️ [TelRag](https://github.com/gitFarzam/telrag) | [Live Demo @ Telrag.site](https://telrag.site) 
 RAG application, using telegram as a tool for adding new documents.
 
 ### ◼️ [DigitRecognition](https://github.com/gitFarzam/DigitRecognition)
